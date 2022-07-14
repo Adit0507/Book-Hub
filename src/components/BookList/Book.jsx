@@ -1,8 +1,14 @@
 import React from 'react'
+import {Link} from "react-router-dom";
+import './BookList.css'
 
-const Book = () => {
+const Book = (book) => {
   return (
-    <div>Book</div>
+    <div className='book-item flex flex-column flex-sb'>
+      <div className='book-item-img'>
+        
+      </div>
+    </div>
   )
 }
 
