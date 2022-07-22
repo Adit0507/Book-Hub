@@ -1,3 +1,5 @@
+# Book Hub
+- Built using <b>ReactJS</b> and <b>Open Library API</b>
 
 ## Home Page
 ![home](https://user-images.githubusercontent.com/78037846/180438106-792cb117-9281-4f3e-a7fd-bc2bb74389e5.PNG)
